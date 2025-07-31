@@ -1,0 +1,1803 @@
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+
+accel: ax=0.00, ay=0.00, az=0.00
+gyro:  gx=0.00, gy=0.00, gz=0.00
+

@@ -1,0 +1,3 @@
+🐍Wi-Fi: off | BLE:Off | Done | 9.2.7\[2K[0GAuto-reload is on. Simply save files over USB to run them or enter REPL to disable.
+
+Press any key to enter the REPL. Use CTRL-D to reload.
